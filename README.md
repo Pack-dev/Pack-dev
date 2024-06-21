@@ -16,7 +16,6 @@ I've been learning to code for 5 year , I started with HTML , but have a passion
 </p>
 
 <p align="center"><img src="https://www.meme-arsenal.com/memes/4d91f03ce959543397591ee914a61ac5.jpg" width="482" height="320" alt="meme" /></p>
-<p align="center"><marquee direction="up">This text will scroll from bottom to top</marquee></p>
 
 - Socials
 
