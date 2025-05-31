@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I've been learning to code for 5 year , I started with HTML , but have a passion for backend development and now I'm trying to learn frontend development for position Fullstack Developer
+I've been learning to code when i'm 16 year old, I started with HTML , but have a passion for backend development and now I'm trying to learn frontend development for position Fullstack Developer
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning How to fly
